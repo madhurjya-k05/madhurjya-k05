@@ -6,17 +6,7 @@ Yo!<br>An Undergrad Here Persuing BSc in CS&IT!💻<br>Interested In The Field o
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@x_luffy05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhurjyakishor@gmail.com) 
 
 # 💻 Tech Stack:
-<p align="left">
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Windows Terminal" />
-  <img src="https://shields.io" alt="Canva" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitLab" />
-  <img src="https://shields.io" alt="Linux" />
-</p>
+![C](https://shields.io) ![C++](https://shields.io) ![Python](https://shields.io) ![Windows Terminal](https://shields.io) ![Canva](https://shields.io) ![GitHub](https://shields.io) ![Git](https://shields.io) ![GitLab](https://shields.io) ![Linux](https://shields.io)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=madhurjya-k05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
